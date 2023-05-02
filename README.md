@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhamghatode2015
-- 👀 I’m interested in React js , javaScript , bootstrap, html , css, photoshop, CorelDRAW, illustrator and more
-- 🌱 I’m currently learning front-end development, web-development, and node js also
+- 👀 I’m interested in React js , javaScript , mui ,redux thunk, git, node.js, rest api, html , css,figma,  photoshop, CorelDRAW, illustrator and more
+- 🌱 I’m currently i am working on  front-end development, web-development, and node js also
 - 💞️ I’m looking to collaborate on react developer 
 - 📫 How to reach me ... email:- shubhamghatode2015@gmail.com , call & whatsaap me :- 9981959006
 
