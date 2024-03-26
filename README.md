@@ -1,10 +1,50 @@
-- 👋 Hi, I’m @Shubhamghatode2015
-- 👀 I’m interested in React js , javaScript , mui ,redux thunk, git, node.js, rest api, html , css,figma,  photoshop, CorelDRAW, illustrator and more
-- 🌱 I’m currently i am working on  front-end development, web-development, and node js also
-- 💞️ I’m looking to collaborate on react developer 
-- 📫 How to reach me ... email:- shubhamghatode2015@gmail.com , call & whatsaap me :- 9981959006
+# Hi there, I'm Shubham Ghatode! 👋
 
-<!---
-Shubhamghatode2015/Shubhamghatode2015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Full Stack Developer || MERN Stack Developer at Satya Kabir E-Solutions Private Limited in Bhopal. I love working with web technologies and creating awesome applications. Here are some of the technologies I work with:
+
+## 🔭 I’m currently working on
+
+- React.js
+- Next.js
+- Node.js
+- Redux
+- Redux Toolkit
+- Redux RTK Query
+- JavaScript
+- Git
+- Jira
+- Three.js
+- G-Saap
+- Framer Motion
+- Material UI
+- Tailwind CSS
+- Integrating APIs and creating RESTful services
+- And More...
+
+🌱 I’m currently working on Mern Stack development projects, honing my skills in React.js, Next.js, Node.js and More.
+
+
+## 🌱 I’m currently learning
+- Advanced patterns in Next js or Node js
+- Deep diving into CSS frameworks like Tailwind CSS , Chakra UI , or more
+- Deep diving and Learing  AWS Cloud Computing
+
+## 💬 Ask me about
+- React.js, Next.js, and Node.js
+- Redux, Redux Toolkit, and Redux RTK Query
+- REST API integrations
+
+💬 Feel free to reach out to me via email at  or connect with me on LinkedIn at .
+## 📫 How to reach me
+- Email: [shubhamghatode2015@gmail.com](shubhamghatode2015@gmail.com)
+- LinkedIn: [www.linkedin.com/in/shubham-ghatode-4a390015b](www.linkedin.com/in/shubham-ghatode-4a390015b)
+- Whatsaap: [9981959006](9981959006)
+
+## ⚡ Fun fact
+I'm also a fan of exploring new CSS frameworks and experimenting with different design patterns!
+I'm always open to collaborating on exciting React projects!
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Shubhamghatode2015&show_icons=true)
+
+
+
