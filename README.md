@@ -14,7 +14,7 @@ I'm a Full Stack Developer || MERN Stack Developer at Satya Kabir E-Solutions Pr
 - Git
 - Jira
 - Three.js
-- G-Saap
+- G-sap
 - Framer Motion
 - Material UI
 - Tailwind CSS
